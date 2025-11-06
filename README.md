@@ -1,4 +1,4 @@
-Unzip the Code_availabilty file which contains 5 files. 
+Unzip the NC_Nov_2025.zip file which contains 5 files. 
 
 The files with the prefix T_ are checkpoint files with suitable starting conditions for a simulation. 
 The file simulate.cu contains the CUDA sourcecode to simulate the system. It does not rely on any external libraries other than CUDA. 
