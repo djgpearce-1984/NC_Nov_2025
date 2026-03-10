@@ -1,3 +1,12 @@
+Recreating figures from the manuscript.
+
+Data to generate the figures from the main text and supplementary information are stored in files Source_Data_Main_Text.zip and Source_Data_Supplementary_Information.zip, respectively. 
+Each file contains a folder for each figure in the respective part of the manuscript. 
+The folders contain the raw data to recreate each figure as presented in the manuscript. All data is stored as tab delineated text files. 
+The Python file gen_figs.py contained within each folder can generate all plots with associated formatting from the raw data. 
+
+Running simulations of active nematics. 
+
 Unzip the NC_Nov_2025.zip file which contains 5 files. 
 
 The files with the prefix T_ are checkpoint files with suitable starting conditions for a simulation. 
